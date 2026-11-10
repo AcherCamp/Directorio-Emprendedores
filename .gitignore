@@ -1,0 +1,22 @@
+# Node.js / Vue / Vite
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+
+# .NET / Visual Studio
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Editors
+.vscode/
+.idea/
+
+# Operating systems
+.DS_Store
+Thumbs.db
+desktop.ini
